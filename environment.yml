@@ -14,9 +14,9 @@
 # you open a new terminal, run:
 #     $ conda config --set auto_activate_base false
 # Finally, activate the environment with:
-#     $ conda activate project # TODO: Update to your project's name
+#     $ conda activate project AMontyTest
 #
-name: project # TODO: Update to your project's name
+name: AMontyTest
 channels:
   - aihabitat
   - pytorch
